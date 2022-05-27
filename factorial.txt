@@ -1,0 +1,4 @@
+def Fibo(n):
+if n=1:
+return0
+elif
